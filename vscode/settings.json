@@ -1,0 +1,42 @@
+{
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"editor.autoClosingBrackets": "always",
+	"editor.autoClosingQuotes": "always",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.detectIndentation": false,
+	"editor.fontFamily": "'Menlo', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+	"editor.fontLigatures": false,
+	"editor.fontSize": 15,
+	"editor.hover.delay": 500,
+	"editor.insertSpaces": false,
+	"editor.scrollbar.verticalScrollbarSize": 10,
+	"editor.smoothScrolling": true,
+	"editor.stickyScroll.enabled": true,
+	"editor.tabSize": 2,
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"astro",
+		"typescript",
+		"typescriptreact"
+	],
+	"explorer.confirmDragAndDrop": true,
+	"git.autofetch": true,
+	"git.mergeEditor": true,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"less.lint.argumentsInColorFunction": "ignore",
+	"settingsSync.ignoredSettings": [],
+	"telemetry.telemetryLevel": "off",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"workbench.colorTheme": "Palenight Theme",
+	"workbench.editor.highlightModifiedTabs": true,
+	"workbench.iconTheme": "file-icons",
+	"workbench.settings.applyToAllProfiles": [],
+	"workbench.startupEditor": "newUntitledFile"
+}
